@@ -1,0 +1,2 @@
+D:\VStudio\OC 1\Debug\OC 1.exe
+D:\VStudio\OC 1\Debug\OC 1.pdb
